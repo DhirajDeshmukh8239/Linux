@@ -121,7 +121,7 @@ df -h
 ````
 ls
 ````
-![image]()
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/30311e38d602e89fe65bc9615497ec5449473c23/Screenshot%202025-07-03%20181421.png)
 **shows command description**
 ````
 man <command>
