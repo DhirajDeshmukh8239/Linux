@@ -19,7 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/328cfe15-54f4-4dea-a313-801b3eeded64)
 
-![image](Screenshot 2025-07-03 120626.png)
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/6ac1489b1705955c6eb97b45ca22c296b80489b4/Screenshot%202025-07-03%20120626.png)
 ## 🧩 Different Types of Operating Systems
 
 - **Batch OS** – Executes batches of jobs with minimal or no user interaction.
