@@ -12,6 +12,7 @@ touch example.txt
 ````
 cat > file2.txt
 ````
+![image]()
 **Note:** 
 - '>' will override file content   and
 - '>>' will append (both old data and new will stay in file)
