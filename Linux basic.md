@@ -125,6 +125,7 @@ ls
 **shows command description**
 ````
 man <command>
+-Man command we use to know about the command information
 ````
 
 
