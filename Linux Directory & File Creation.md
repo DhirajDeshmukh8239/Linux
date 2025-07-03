@@ -12,7 +12,7 @@ touch example.txt
 ````
 cat > file2.txt
 ````
-![image]()
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/3acf374d6de0082e00a68776844ef835f2e069bc/Screenshot%202025-07-03%20195855.png)
 **Note:** 
 - '>' will override file content   and
 - '>>' will append (both old data and new will stay in file)
