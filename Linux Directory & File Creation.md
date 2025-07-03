@@ -61,7 +61,8 @@ mv index.html aws/
 ```sh
 mv heylo.txt hello.txt
 ```
-- Renames `heylo.txt` to `hello.txt` 
+- Renames `heylo.txt` to `hello.txt`
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/c139b906cee52beba46e41094eb5bfb76498be91/Screenshot%202025-07-03%20203058.png)
 
 
 
