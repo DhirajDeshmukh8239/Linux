@@ -121,6 +121,7 @@ df -h
 ````
 ls
 ````
+![image]()
 **shows command description**
 ````
 man <command>
