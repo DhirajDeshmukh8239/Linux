@@ -26,6 +26,8 @@ echo "Hello World" > index.html
 ````
 cat index.html
 ````
+-In this we use only echo command to show override or not override
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/91ccab4d83985a4c50c9be8c143bb4d339fb1e49/Screenshot%202025-07-03%20200752.png)
 ---
 
 ###  Creating Directories
