@@ -9,5 +9,7 @@ nano deshmukh1.txt
 - write information in file
 - Press Ctrl + X
 - Press Y    Enter
+![image]()
+  
              
 ````
