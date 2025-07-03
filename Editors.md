@@ -13,3 +13,13 @@ nano deshmukh1.txt
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/b5b7cdc60cf6f1c749fcf3745d1d2a8acf5d3987/Screenshot%202025-07-03%20204620.png)
              
 ````
+## Vim/Vi
+````
+vim error.html
+````
+- Steps are: Press i
+- write information in file
+- Save press Esc 
+- Shift + :
+- X
+- Enter
