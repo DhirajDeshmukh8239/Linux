@@ -1,12 +1,10 @@
-# Linux Directory and File Creation
+# Editors
 
 
-## Creating Files
+## Nano
 ````
-touch example.txt
+nano deshmukh1.txt
 ````
-- touch example.txt → Creates empty file example.txt 
-
-
-- cat > file2.txt → Creates a new file file2.txt and waits for input. Press Ctrl+D to save.
+- Steps are: write nano filename     write information in file     Press Ctrl + X      Press Y    Enter
+-             
 ````
