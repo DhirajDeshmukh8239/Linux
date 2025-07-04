@@ -64,6 +64,29 @@ q
 ````
 x or wq
 ````
+## Command mode:
+**line delete**
+````
+dd
+````
+**line copy**
+````
+yy
+````
+**line cut**
+````
+cc
+````
+**Use to paste line**
+````
+p
+````
+**Undo last change**
+````
+u
+````
+
+
 
 
 
