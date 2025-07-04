@@ -30,8 +30,11 @@ vim error.html
 ## Modes of Vim editor
 
 1.**Command Mode**
+
 2.**Insert Mode**
+
 3.**Execution Mode**
+
 4.**Visual Mode**
 
 
