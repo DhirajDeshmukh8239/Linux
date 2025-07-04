@@ -93,10 +93,13 @@ u
 **Note:** 
 - 'ESC' we use to exit from every mode
   
-**To take cursor at top or bottom**
+**To take cursor at top **
 ````
-top- g
-bottom- G
+ g
+````
+**To take cursor at bottom **
+````
+ G
 ````
 **To highlight any word**
 ````
