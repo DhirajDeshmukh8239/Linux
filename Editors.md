@@ -70,7 +70,8 @@ x or wq
 yy
 ````
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/f79d9a8534818023e53a6295bf01fe65b84ed602/Screenshot%202025-07-04%20172318.png)
-![image]()
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/ec0772f2ccda1ef026ff19d96fd375cd10be6c53/Screenshot%202025-07-04%20172413.png)
+
 **line delete**
 ````
 dd
