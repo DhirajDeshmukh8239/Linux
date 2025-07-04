@@ -37,7 +37,7 @@ vim error.html
 
 4.**Visual Mode**
 
-##1] Insert Mode:
+## Insert Mode:
 
 **insert**
 ````
@@ -51,6 +51,20 @@ o
 ````
 O
 ````
+## Execution mode:
+**save**
+````
+w
+````
+**quit**
+````
+q
+````
+**save and exit**
+````
+x or wq
+````
+
 
 
 
