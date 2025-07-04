@@ -117,6 +117,8 @@ u
 ````
 :set nu
 ````
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/9b0a1c181be6e0a8cbb9019d5758c138ac1ef866/Screenshot%202025-07-04%20175016.png)
+
 **To remove number from line**
 ````
 :set nonu
