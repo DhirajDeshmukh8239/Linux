@@ -37,7 +37,7 @@ vim error.html
 
 4.**Visual Mode**
 
-## Insert Mode:
+##1] Insert Mode:
 
 **insert**
 ````
