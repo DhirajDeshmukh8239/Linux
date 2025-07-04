@@ -90,6 +90,23 @@ p
 ````
 u
 ````
+**Note:** 
+- 'ESC' we use to exit from every mode
+**To take cursor at top or bottom**
+````
+top- g
+bottom- G
+````
+**To highlight any word**
+````
+/word
+````
+**To replace any word from new word**
+````
+:%s/old_word/new_word
+````
+
+
 
 
 
