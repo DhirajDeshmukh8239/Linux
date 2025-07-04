@@ -65,13 +65,15 @@ q
 x or wq
 ````
 ## Command mode:
-**line delete**
-````
-dd
-````
 **line copy**
 ````
 yy
+````
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/f79d9a8534818023e53a6295bf01fe65b84ed602/Screenshot%202025-07-04%20172318.png)
+![image]()
+**line delete**
+````
+dd
 ````
 **line cut**
 ````
