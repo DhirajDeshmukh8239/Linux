@@ -37,5 +37,21 @@ vim error.html
 
 4.**Visual Mode**
 
+## Insert Mode:
+
+**insert**
+````
+i
+````
+**new line below**
+````
+o
+````
+**new line above**
+````
+O
+````
+
+
 
 
