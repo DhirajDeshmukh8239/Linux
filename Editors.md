@@ -92,6 +92,7 @@ u
 ````
 **Note:** 
 - 'ESC' we use to exit from every mode
+  
 **To take cursor at top or bottom**
 ````
 top- g
