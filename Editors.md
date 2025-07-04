@@ -76,6 +76,8 @@ yy
 ````
 dd
 ````
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/4627d0d7719525cb165185e85f8798f9e422e3f3/Screenshot%202025-07-04%20173023.png)
+
 **line cut**
 ````
 cc
