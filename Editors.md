@@ -24,3 +24,5 @@ vim error.html
 - Shift + :
 - X
 - Enter
+![image]()
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/252ed8eed312e65a27f69229dc315f198e13e640/Screenshot%202025-07-04%20163641.png)
