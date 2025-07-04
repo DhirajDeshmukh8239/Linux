@@ -105,6 +105,8 @@ u
 ````
 /word
 ````
+![image](https://github.com/DhirajDeshmukh8239/Linux/blob/6564b4b2e2bb9cfb7bcc46bd191b1879dd86085e/Screenshot%202025-07-04%20174122.png)
+
 **To replace any word from new word**
 ````
 :%s/old_word/new_word
