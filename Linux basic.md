@@ -169,6 +169,11 @@ clear or Ctrl+L
 ````
 history
 ````
+**Note:** 
+- When we write command on shell
+- Ctrl+A use to take cursor at front
+- Ctrl+E use to take cursor at last
+  
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/a80b65f8006c3c630e64f153bef8c522d52937cd/Screenshot%202025-07-03%20194224.png)
 ---
 
