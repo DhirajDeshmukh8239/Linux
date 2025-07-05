@@ -12,6 +12,7 @@ touch example.txt
 ````
 cat > file2.txt
 ````
+
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/3acf374d6de0082e00a68776844ef835f2e069bc/Screenshot%202025-07-03%20195855.png)
 **Note:** 
 - '>' will override file content   and
@@ -48,6 +49,9 @@ rm -rvf pune
 ### Copy file to another file and dir
 ````
 cp file1.txt  file2.txt
+````
+````
+cat sourcefile >> destinationfile
 ````
 
 
