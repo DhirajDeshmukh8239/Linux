@@ -161,6 +161,14 @@ lsblk
 ````
 du -sh file/dirname
 ````
+- screen clear
+````
+clear or Ctrl+L
+````
+- To see history
+````
+history
+````
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/a80b65f8006c3c630e64f153bef8c522d52937cd/Screenshot%202025-07-03%20194224.png)
 ---
 
