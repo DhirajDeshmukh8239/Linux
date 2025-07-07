@@ -114,6 +114,10 @@ u
 ````
 :%s/old_word/new_word
 ````
+````
+:%s/old_word/new_word/g      
+````
+
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/f96acdf200ee2b8eb5576e0af853bd981851d419/Screenshot%202025-07-04%20174148.png)
 
 **To set number to line**
