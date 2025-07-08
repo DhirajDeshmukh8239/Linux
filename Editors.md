@@ -132,30 +132,7 @@ u
 ````
 ![image](https://github.com/DhirajDeshmukh8239/Linux/blob/e8556c2c08dd481a2a95f2993e3f2b4d4233d437/Screenshot%202025-07-04%20175043.png)
 
-## Visual mode:
-**Enter in visual mode**
-````
-v or V
-````
-**copy**
-````
-y
-````
-**paste**
-````
-v
-````
-**delete**
-````
-d
-````
-**cut**
-````
-c
-````
-
 ---
-
 ## $$\color{brown}\textbf{4. Visual Mode}$$
 
 In **Visual Mode**, you can select text to copy, cut, or paste.
