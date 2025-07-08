@@ -51,7 +51,7 @@ o
 ````
 O
 ````
-## Execution mode:
+## $$\color{brown}\textbf{2. Execution Mode}$$
 **save**
 ````
 w
@@ -64,7 +64,7 @@ q
 ````
 x or wq
 ````
-## $$\color{brown}\textbf{2. Command Mode}$$
+## $$\color{brown}\textbf{3. Command Mode}$$
 **line copy**
 ````
 yy
