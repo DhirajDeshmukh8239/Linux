@@ -135,7 +135,7 @@ u
 ## Visual mode:
 **Enter in visual mode**
 ````
-Ctrl+ v 
+v or V
 ````
 **copy**
 ````
