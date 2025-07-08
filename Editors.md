@@ -154,6 +154,25 @@ d
 c
 ````
 
+---
+
+## $$\color{brown}\textbf{4. Visual Mode}$$
+
+In **Visual Mode**, you can select text to copy, cut, or paste.
+
+### Selection Commands:
+- v: Select text character by character
+- V: Select text line by line
+- Ctrl+v: Select a block of text
+
+### Operations on Selected Text:
+- y: Copy selected text
+- d: Delete selected text
+- c: Cut selected text
+- P: Paste the selected text
+
+---
+
 
 
 
