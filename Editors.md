@@ -151,6 +151,13 @@ In **Visual Mode**, you can select text to copy, cut, or paste.
 ---
 
 
+**Note:** 
+- **Vim madhe command use taku shakto**
+````
+:!<command>
+````
+
+
 
 
 
