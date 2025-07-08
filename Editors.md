@@ -37,7 +37,7 @@ vim error.html
 
 4.**Visual Mode**
 
-## Insert Mode:
+## $$\color{brown}\textbf{1. Insert Mode}$$
 
 **insert**
 ````
@@ -64,7 +64,7 @@ q
 ````
 x or wq
 ````
-## Command mode:
+## $$\color{brown}\textbf{2. Command Mode}$$
 **line copy**
 ````
 yy
